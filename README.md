@@ -123,6 +123,16 @@ These tables are connected using relational keys to ensure proper data integrati
 
 ---
 
+## 🔗 Project Files
+
+### 🗄️ SQL Script
+- [Cities Database Schema](SQL/Cities_db.sql)
+
+### 📓 Jupyter Notebook
+- [ETL Pipeline Notebook](gans_final.ipynb)
+
+---
+
 ## 🔗 How to Use This Project
 
 ### 1. Clone the Repository
