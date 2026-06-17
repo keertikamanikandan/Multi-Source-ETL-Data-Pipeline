@@ -139,7 +139,7 @@ This pipeline integrates multiple datasets to build a unified city-level databas
 ## 📁 Project Structure
 
 ```text
-multi-source-etl-pipeline-for-gans/
+Multi-Source-ETL-Data-Pipeline/
 │
 ├── 📂 SQL
 │   └── Cities_db.sql
@@ -184,10 +184,11 @@ The following diagram illustrates the relational database design used in this pr
 ## 🔗 Project Files
 
 ### 🗄️ SQL Script
-- [Database Schema (SQL)](https://github.com/keertikamanikandan/multi-source-etl-pipeline-for-gans/blob/main/SQL/Cities_db.sql)
+
+- [Database Schema (SQL)](https://github.com/keertikamanikandan/Multi-Source-ETL-Data-Pipeline/blob/main/SQL/Cities_db.sql)
   
 ### 📓 Jupyter Notebook
-- [ETL Pipeline Notebook](https://github.com/keertikamanikandan/multi-source-etl-pipeline-for-gans/blob/main/jupyter%20notebook/gans_final.ipynb)
+- [ETL Pipeline Notebook](https://github.com/keertikamanikandan/Multi-Source-ETL-Data-Pipeline/blob/main/jupyter%20notebook/gans_final.ipynb)
 
 
 ---
@@ -197,7 +198,7 @@ The following diagram illustrates the relational database design used in this pr
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/multi-source-etl-pipeline-for-gans.git
+git clone https://github.com/your-username/Multi-Source-ETL-Data-Pipeline.git
 ```
 
 ### 2. Create Database
