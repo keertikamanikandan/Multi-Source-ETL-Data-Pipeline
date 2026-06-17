@@ -1,4 +1,4 @@
-# 🚀 Multi-Source ETL Pipeline for GANS
+# 🚀 Multi-Source ETL Data Pipeline (Python + SQL)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
